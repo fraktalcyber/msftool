@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Metasploit artifacts
+*.exe
+*.elf
+*.dll
+*.bin
+*.raw
+*.ps1
+*.bat
+*.vbs
+*.hta
+
+# Engagement database (contains sensitive findings)
+engagements.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
