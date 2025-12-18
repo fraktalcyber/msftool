@@ -1,6 +1,6 @@
 # Metasploit MCP Server
 
-**DISCLAIMER**: This tool is a proof of cocept implementation for research purposes and **not to be used in any kind of real work**. See the accompanying blog post [https://blog.fraktal.fi/testing-ai-orchestrated-attacks-in-practice-12f8fb03191e](here). 
+**DISCLAIMER**: This tool is a proof of cocept implementation for research purposes and **not to be used in any kind of real work**. See the accompanying blog post [here](blog.fraktal.fi/testing-ai-orchestrated-attacks-in-practice-12f8fb03191e). 
 
 An MCP (Model Context Protocol) server that provides Claude Code with access to the Metasploit Framework RPC API. This enables AI-assisted penetration testing workflows for **authorized security testing only**.
 
