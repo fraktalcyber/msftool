@@ -9,6 +9,7 @@ dist/
 .env.*
 *.pem
 *.key
+.claude/settings.json
 
 # Metasploit artifacts
 *.exe
